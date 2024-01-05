@@ -1,5 +1,4 @@
-# hbs
-Full-Stack Hotel Booking Site
+# Full-Stack Hotel Booking Site
 
 ## Overview
 
